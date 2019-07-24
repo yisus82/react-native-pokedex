@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-native-pokedex/react-native-pokedex/static/css/main.0d11f04c.chunk.css",
-    "main.js": "/react-native-pokedex/react-native-pokedex/static/js/main.9267da9c.chunk.js",
-    "main.js.map": "/react-native-pokedex/react-native-pokedex/static/js/main.9267da9c.chunk.js.map",
-    "runtime~main.js": "/react-native-pokedex/react-native-pokedex/static/js/runtime~main.3e7503af.js",
-    "runtime~main.js.map": "/react-native-pokedex/react-native-pokedex/static/js/runtime~main.3e7503af.js.map",
-    "static/js/2.078b2701.chunk.js": "/react-native-pokedex/react-native-pokedex/static/js/2.078b2701.chunk.js",
-    "static/js/2.078b2701.chunk.js.map": "/react-native-pokedex/react-native-pokedex/static/js/2.078b2701.chunk.js.map",
-    "index.html": "/react-native-pokedex/react-native-pokedex/index.html",
-    "precache-manifest.8e729f92bb7cfd5169c8ff3e7693028a.js": "/react-native-pokedex/react-native-pokedex/precache-manifest.8e729f92bb7cfd5169c8ff3e7693028a.js",
-    "service-worker.js": "/react-native-pokedex/react-native-pokedex/service-worker.js",
-    "static/css/main.0d11f04c.chunk.css.map": "/react-native-pokedex/react-native-pokedex/static/css/main.0d11f04c.chunk.css.map"
+    "main.css": "/react-native-pokedex/static/css/main.0d11f04c.chunk.css",
+    "main.js": "/react-native-pokedex/static/js/main.9267da9c.chunk.js",
+    "main.js.map": "/react-native-pokedex/static/js/main.9267da9c.chunk.js.map",
+    "runtime~main.js": "/react-native-pokedex/static/js/runtime~main.872eb8ab.js",
+    "runtime~main.js.map": "/react-native-pokedex/static/js/runtime~main.872eb8ab.js.map",
+    "static/js/2.078b2701.chunk.js": "/react-native-pokedex/static/js/2.078b2701.chunk.js",
+    "static/js/2.078b2701.chunk.js.map": "/react-native-pokedex/static/js/2.078b2701.chunk.js.map",
+    "index.html": "/react-native-pokedex/index.html",
+    "precache-manifest.54194f6559f5b2d8ffdd6f8245164ce0.js": "/react-native-pokedex/precache-manifest.54194f6559f5b2d8ffdd6f8245164ce0.js",
+    "service-worker.js": "/react-native-pokedex/service-worker.js",
+    "static/css/main.0d11f04c.chunk.css.map": "/react-native-pokedex/static/css/main.0d11f04c.chunk.css.map"
   }
 }
