@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Simple Project to learn React Native",
+    "githubUrl": "https://github.com/yisus82/react-native-pokedex"
   }
 }
