@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d11f04c.chunk.css",
-    "main.js": "/static/js/main.9267da9c.chunk.js",
-    "main.js.map": "/static/js/main.9267da9c.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.078b2701.chunk.js": "/static/js/2.078b2701.chunk.js",
-    "static/js/2.078b2701.chunk.js.map": "/static/js/2.078b2701.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cd01cd7f20947882d0b79ae0c02dfc85.js": "/precache-manifest.cd01cd7f20947882d0b79ae0c02dfc85.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0d11f04c.chunk.css.map": "/static/css/main.0d11f04c.chunk.css.map"
+    "main.css": "/react-native-pokedex/static/css/main.0d11f04c.chunk.css",
+    "main.js": "/react-native-pokedex/static/js/main.9267da9c.chunk.js",
+    "main.js.map": "/react-native-pokedex/static/js/main.9267da9c.chunk.js.map",
+    "runtime~main.js": "/react-native-pokedex/static/js/runtime~main.872eb8ab.js",
+    "runtime~main.js.map": "/react-native-pokedex/static/js/runtime~main.872eb8ab.js.map",
+    "static/js/2.078b2701.chunk.js": "/react-native-pokedex/static/js/2.078b2701.chunk.js",
+    "static/js/2.078b2701.chunk.js.map": "/react-native-pokedex/static/js/2.078b2701.chunk.js.map",
+    "index.html": "/react-native-pokedex/index.html",
+    "precache-manifest.54194f6559f5b2d8ffdd6f8245164ce0.js": "/react-native-pokedex/precache-manifest.54194f6559f5b2d8ffdd6f8245164ce0.js",
+    "service-worker.js": "/react-native-pokedex/service-worker.js",
+    "static/css/main.0d11f04c.chunk.css.map": "/react-native-pokedex/static/css/main.0d11f04c.chunk.css.map"
   }
 }
