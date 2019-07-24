@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yisus82/react-native-pokedex/static/css/main.0d11f04c.chunk.css",
+    "main.js": "/yisus82/react-native-pokedex/static/js/main.9267da9c.chunk.js",
+    "main.js.map": "/yisus82/react-native-pokedex/static/js/main.9267da9c.chunk.js.map",
+    "runtime~main.js": "/yisus82/react-native-pokedex/static/js/runtime~main.e2bd2cf6.js",
+    "runtime~main.js.map": "/yisus82/react-native-pokedex/static/js/runtime~main.e2bd2cf6.js.map",
+    "static/js/2.078b2701.chunk.js": "/yisus82/react-native-pokedex/static/js/2.078b2701.chunk.js",
+    "static/js/2.078b2701.chunk.js.map": "/yisus82/react-native-pokedex/static/js/2.078b2701.chunk.js.map",
+    "index.html": "/yisus82/react-native-pokedex/index.html",
+    "precache-manifest.a491e8d300a7c6169b5500bd97c83676.js": "/yisus82/react-native-pokedex/precache-manifest.a491e8d300a7c6169b5500bd97c83676.js",
+    "service-worker.js": "/yisus82/react-native-pokedex/service-worker.js",
+    "static/css/main.0d11f04c.chunk.css.map": "/yisus82/react-native-pokedex/static/css/main.0d11f04c.chunk.css.map"
+  }
+}
